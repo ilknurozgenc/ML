@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler
 
 #DATASET OKUTMA İŞLEMİ
-data=pd.read_csv("müsteri_tahmini.csv")
+data=pd.read_csv("Customer_Price_Estimate.csv")  #Konu ile ilgili indirilmiş bir dataset.
 
 #VERİ OKUMA VE GÖRÜNTÜLEME
 data.head()
