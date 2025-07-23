@@ -15,6 +15,7 @@ Günlük Hayattan Örnekler:
 -Sağlık alanında, hastalık riskinin erken teşhisi.
 
 
+
 Makine Öğreniminin Temel Türleri:
 
 Denetimli Öğrenme (Supervised Learning): Etiketlenmiş verilerle yapılan öğrenmedir. Örneğin; bir kişinin sağlık verilerine bakarak hasta olup olmadığını tahmin etmek.
