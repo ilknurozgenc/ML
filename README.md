@@ -26,26 +26,32 @@ Makine Öğrenmesi ile Neler Yapılabilir?
 -EEG sinyalleri ile epilepsi nöbeti tahmini
 
 🎓 Eğitim
+
 -Öğrenci sınav başarısı tahmini
 -Kişiye özel öğrenme öneri sistemi
 
 💰 Finans
+
 -Kredi skoru / ödeme riski analizi
 -Bankacılık işlemlerinde dolandırıcılık tespiti
 
 🛍️ E-Ticaret & Pazarlama
+
 -Müşteri gruplama (segmentasyon)
 -Ürün öneri sistemi
 
 🧠 Doğal Dil İşleme (NLP)
+
 -Duygu analizi (yorumlar olumlu mu, olumsuz mu?)
 -Otomatik metin özeti
 -Sohbet robotu (chatbot)
 
 📷 Görüntü İşleme
+
 -El yazısı rakam tanıma (MNIST)
 -Maske takma tespiti (kamera ile)
 
 ⚙️ IoT & Zaman Serisi Verileri
+
 -Araç arıza tahmini (sensör verileriyle)
 -Enerji tüketimi tahmini
